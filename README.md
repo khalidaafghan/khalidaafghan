@@ -1,3 +1,4 @@
+![logo](https://github.com/khalidaafghan/khalidaafghan/blob/main/get%20hub.png)
 <h1 align="center">Hi 👋, I'm Khalida Afghan</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
